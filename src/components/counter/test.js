@@ -7,7 +7,7 @@ import Counter from '.';
 /* eslint-env jest */
 
 const props = {
-  baseColor: 'blue',
+  baseColor: '#4ca559',
   errorColor: 'red',
   fontSize: 12,
 };

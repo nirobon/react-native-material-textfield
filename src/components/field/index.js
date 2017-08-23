@@ -35,7 +35,7 @@ export default class TextField extends PureComponent {
     labelHeight: 32,
     labelPadding: 4,
 
-    tintColor: 'rgb(0, 145, 234)',
+    tintColor: '#4ca559',
     textColor: 'rgba(0, 0, 0, .87)',
     baseColor: 'rgba(0, 0, 0, .38)',
 
