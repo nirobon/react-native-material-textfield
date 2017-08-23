@@ -12,7 +12,7 @@ const props = {
   basePadding: 4,
   fontSize: 16,
   activeFontSize: 12,
-  tintColor: 'blue',
+  tintColor: '#4ca559',
   baseColor: 'black',
   errorColor: 'red',
   animationDuration: 225,

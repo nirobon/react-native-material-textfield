@@ -8,7 +8,7 @@ import Affix from '.';
 
 const props = {
   fontSize: 16,
-  baseColor: 'blue',
+  baseColor: '#4ca559',
   animationDuration: 225,
 };
 
